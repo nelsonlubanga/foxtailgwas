@@ -1,0 +1,2 @@
+# foxtailgwas
+Foxtail GWAS analysis
