@@ -1,0 +1,7 @@
+item,value,note
+Field23 raw rows,672,
+Field24 raw rows,900,
+Clean rows,1572,"Built from raw year sheets, not the combined sheet"
+Field24 genotypes,150,
+Combined-sheet 2024 genotypes,146,Calculated from the combined sheet
+Field24 genotypes absent from combined sheet,4,Fm156; Fm168; Fm20; Fm9

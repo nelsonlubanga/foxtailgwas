@@ -1,0 +1,2 @@
+seed,samples,markers,sampled_usable_pairs,maximum_distance_bp,bin_width_bp,r2_threshold,first_mean_r2_below_threshold_bp,threshold_interpretation
+20260909,177,848687,134882,2e+06,25000,0.2,,Mean r2 was already <= 0.2 in the first 0-25 kb bin

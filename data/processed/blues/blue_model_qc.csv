@@ -1,0 +1,25 @@
+year,treatment,trait,model,n_observations,n_genotypes,converged,log_likelihood,block_variance,residual_variance,n_estimable_blues,n_nonestimable_blues
+2023,,dtf,dtf ~ genotype; random = ~ block,654,218,TRUE,-1063.3902183283963,0.12079510703409631,27.814984709362232,218,0
+2023,,height_cm,height_cm ~ genotype; random = ~ block,672,224,TRUE,-1235.9837044289484,1.0095758594915818,52.51125747381449,224,0
+2023,,plants_m2,plants_m2 ~ genotype; random = ~ block,672,224,TRUE,-1603.9339768893944,11.689008114473806,270.57289664746907,224,0
+2023,,thousand_seed_weight_g,thousand_seed_weight_g ~ genotype; random = ~ block,448,150,TRUE,92.19679622714435,5.79927583880058e-4,0.1138547283444118,150,0
+2023,,protein_pct,protein_pct ~ genotype; random = ~ block,369,123,TRUE,-263.50634805483344,0.016225013773394494,1.798499424245641,123,0
+2023,,fat_pct,fat_pct ~ genotype; random = ~ block,339,113,TRUE,85.27256296746138,5.1314503776667325e-5,0.09981564844454519,113,0
+2023,,panicle_length_cm,panicle_length_cm ~ genotype; random = ~ block,438,146,TRUE,-387.54206802908936,0.011049441032906632,3.0106400566839313,146,0
+2023,,pedicel_length_cm,pedicel_length_cm ~ genotype; random = ~ block,438,146,TRUE,-417.86899745123947,0.08896850889622987,3.678337427176656,146,0
+2024,N40,dtf,dtf ~ genotype; random = ~ block,427,145,TRUE,-617.3099065155341,0.1693508150514519,16.76742698235691,145,0
+2024,N120,dtf,dtf ~ genotype; random = ~ block,429,145,TRUE,-716.2999484479041,3.2573217945059126e-7,32.88556313867106,145,0
+2024,N40,height_cm,height_cm ~ genotype; random = ~ block,442,150,TRUE,-790.0135474158318,0.0360924008485997,47.37371416366574,150,0
+2024,N120,height_cm,height_cm ~ genotype; random = ~ block,442,150,TRUE,-813.0095055574759,0.5392096022462869,55.15917069572555,150,0
+2024,N40,plants_m2,plants_m2 ~ genotype; random = ~ block,442,150,TRUE,-883.0379457255817,0.018384216926912767,89.63458466209711,150,0
+2024,N120,plants_m2,plants_m2 ~ genotype; random = ~ block,252,139,TRUE,-377.48638259195917,1.9196879641737998,155.27957448749353,139,0
+2024,N40,number_of_tillers,number_of_tillers ~ genotype; random = ~ block,443,150,TRUE,-329.49824586241164,0.001344598708638879,2.0071885099788003,150,0
+2024,N120,number_of_tillers,number_of_tillers ~ genotype; random = ~ block,442,150,TRUE,-320.350674294197,0.02300064464089959,1.8868684946338425,150,0
+2024,N40,days_to_harvest,days_to_harvest ~ genotype; random = ~ block,414,145,TRUE,-740.3108658372372,0.12662996905834278,51.60678345363214,145,0
+2024,N120,days_to_harvest,days_to_harvest ~ genotype; random = ~ block,419,145,TRUE,-742.3118504218836,2.3821859471122124,46.830305159486834,145,0
+2024,N40,normalized_difference_vegetation_index,normalized_difference_vegetation_index ~ genotype; random = ~ block,442,150,TRUE,578.4595647484387,5.757045973265177e-5,0.00399757041500823,150,0
+2024,N120,normalized_difference_vegetation_index,normalized_difference_vegetation_index ~ genotype; random = ~ block,442,150,TRUE,564.8614639592623,6.539640052760065e-5,0.004387078040262419,150,0
+2024,N40,fluorescence,fluorescence ~ genotype; random = ~ block,441,150,TRUE,459.7879220147431,1.789959978900717e-4,0.008895382693975547,150,0
+2024,N120,fluorescence,fluorescence ~ genotype; random = ~ block,442,150,TRUE,426.29530567851464,3.265422173989739e-4,0.01129480575175647,150,0
+2024,N40,protein_pct,protein_pct ~ genotype; random = ~ block,195,102,TRUE,-116.85036827396155,1.5120649262186027e-7,2.4223167604268423,102,0
+2024,N120,protein_pct,protein_pct ~ genotype; random = ~ block,324,121,TRUE,-303.4928703209566,0.017331696145032754,4.14122278807188,121,0

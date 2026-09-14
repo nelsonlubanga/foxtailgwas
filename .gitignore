@@ -1,0 +1,33 @@
+# macOS and R session files
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large source genotype and reference files (store externally; see README)
+data/raw/*.vcf
+data/raw/*.vcf.gz
+data/reference/
+data/processed/genotypes/*.012
+data/processed/genotypes/*.int8.bin
+data/processed/genotypes/*.vcf.gz
+data/processed/genotypes/*.vcf.gz.tbi
+data/processed/gwas_inputs/
+
+# Superseded full analysis archives
+archive/
+
+# Superseded figure drafts; final R figures are in figures/publication_r_final/
+figures/publication_r/
+
+# Full per-marker GAPIT output tables and serialized model objects
+# Compact summaries, candidate-gene outputs, LD results, figures and reports remain tracked.
+results/gwas/2023/
+results/gwas/2024_N40/
+results/gwas/2024_N120/
+results/gwas/pilot_2023_height/
+
+# Temporary and log files
+*.log
+*.tmp
+~$*

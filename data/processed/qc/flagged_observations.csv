@@ -1,0 +1,74 @@
+plot_id,issue,raw_value,action
+2024_Fm168_N120_2,treatment_inferred,*,N120
+2023_Fm13_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm13_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm13_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm142_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm142_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm142_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm157_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm157_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm157_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm161_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm161_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm161_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm39_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm39_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm39_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm60_None_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm60_None_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm60_None_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N120_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N120_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N120_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N40_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N40_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm156_N40_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N120_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N120_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N120_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N40_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N40_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm161_N40_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N120_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N120_2,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N120_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N40_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N40_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm168_N40_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N120_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N120_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N120_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N40_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N40_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm20_N40_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm216_N40_1,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm216_N40_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm346_N120_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm346_N40_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm352_N40_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm361_N120_2,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm398_N120_2,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm398_N40_3,dtf_missing,,dtf and flowering_event set missing; raw code retained
+2024_Fm404_N120_1,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm443_N40_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm585_N120_1,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm585_N120_3,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm585_N40_1,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm78_N40_2,dtf_star_code,*,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N120_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N120_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N120_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N40_1,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N40_2,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2024_Fm9_N40_3,dtf_zero_code,0,dtf and flowering_event set missing; raw code retained
+2023_Fm191_None_3,plants_m2_zero,0,zero retained; review as possible establishment failure
+2023_Fm346_None_2,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm369_N120_1,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm369_N40_1,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm369_N40_2,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm391_N120_2,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm398_N120_1,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm585_N120_2,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm585_N40_2,plants_m2_zero,0,zero retained; review as possible establishment failure
+2024_Fm78_N120_1,plants_m2_zero,0,zero retained; review as possible establishment failure
