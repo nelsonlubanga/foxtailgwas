@@ -73,10 +73,19 @@ minimap2 2.31.
   `data/reference/Yugu1_T2T_v1.0/`
 - `data/processed/reference_alignment/Yugu1_v2_to_T2T.paf`
 
-The active genotype dataset contains 177 individuals and 848,687 SNPs after
-retaining only chromosomes 1–9 and applying the following filters: biallelic
-SNPs, MAF at least 0.05, SNP missingness at most 0.10, and individual
-missingness at most 0.10. Additional and unplaced scaffolds are excluded.
+The active genotype dataset contains 177 individuals and 848,687 SNPs. The
+filters were applied in this order (`scripts/03_vcf_qc.sh`):
+
+1. Individual missingness at most 0.10, calculated across all 907,886 SNPs in
+   the VCF, unplaced scaffolds included. This removes 59 of 236 samples.
+2. Chromosomes 1–9 only; additional and unplaced scaffolds are excluded.
+3. Biallelic SNPs with MAF at least 0.05 and SNP missingness at most 0.10,
+   both recalculated in the 177 retained samples.
+
+The order matters at the margin. Calculated on chromosomes 1–9 only, the
+individual filter would retain Fm58 and Fm72 (10.016% and 10.014% missing
+across all SNPs), giving 179 samples. `sample_missingness_qc.tsv` lists the
+missingness and status of every sample.
 
 ## R workflow
 
