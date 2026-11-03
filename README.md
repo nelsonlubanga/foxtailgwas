@@ -222,8 +222,20 @@ The script uses `set.seed(20260907)` and produces:
 - 12 lead-SNP genotype-effect plots as PDF and 300-dpi PNG; and
 - seven LD-coloured regional plots as PDF and 300-dpi PNG.
 
-Final figures are saved in `figures/publication_r_final/`.
-`gwas_figure_manifest.csv` records the input table, marker counts, trait-subset
+Final figures are saved in `figures/publication_r_final/`:
+
+| Figure | Location |
+| --- | --- |
+| Manhattan plots | `figures/publication_r_final/manhattan/` |
+| QQ plots | `figures/publication_r_final/qq/` |
+| Lead-SNP genotype effects | `figures/publication_r_final/snp_effects/` |
+| LD-coloured regional plots | `figures/publication_r_final/regional/` |
+
+Manhattan and QQ plots are named `<environment>_<trait>_<model>.png`, where
+`2023` is LN2023, `2024_N40` is LN2024, and `2024_N120` is HN2024 (for example,
+`2024_N40_height_cm_FarmCPU.png`).
+
+`figures/publication_r_final/gwas_figure_manifest.csv` records the input table, marker counts, trait-subset
 MAF display filter, Bonferroni threshold, and λ for each GWAS figure.
 
 ### 8. Build the PowerPoint presentation
